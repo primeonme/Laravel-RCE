@@ -1,0 +1,6 @@
+#install
+sudo apt-get install python3
+pip3 install requests
+
+#running
+python3 laravel_rce.py websitelist.txt 10
